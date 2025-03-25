@@ -1,18 +1,17 @@
 > [!CAUTION]
-> The only official places to download Fishstrap are this GitHub repository and [fishstrap.app](https://www.fishstrap.app). Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official place to download Aesthstrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
-<p align="center">
-    <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
-</p>
+
 
 <div align="center">
 
-![Fishstrap Showcase](https://www.fishstrap.app/img/Showcase.png)
 
-Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
+Aesthstrap is a Bloxstrap fork aiming to enhance some of the features.
+It's mainly meant for me, but I'm putting it on here because:
+1. License
+2. Incase you want to use it too!
 
-Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/SRs5zb9BJd).
+Found any bugs? [Submit an issue](https://github.com/scoopala7-source/aesthstrap/issues/new/choose).
 
 [![License][badge-repo-license]][repo-license]
 [![Workflow][badge-repo-workflow]][repo-actions]
