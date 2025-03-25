@@ -17,7 +17,7 @@ Found any bugs? [Submit an issue](https://github.com/scoopala7-source/aesthstrap
 [![Workflow][badge-repo-workflow]][repo-actions]
 [![Downloads][badge-repo-downloads]][repo-releases]
 [![Version][badge-repo-latest]][repo-latest]
-[![Discord][badge-discord]][discord-invite]
+(discord is soon!)
 ![Stars][badge-repo-stars]
 
 </div>
