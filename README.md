@@ -57,7 +57,7 @@ Found any bugs? [Submit an issue](https://github.com/scoopala7-source/aesthstrap
 [badge-repo-workflow]:   https://img.shields.io/github/actions/workflow/status/scoopala7-source/aesthstrap/ci-release.yml?branch=main&style=flat-square&label=builds
 [badge-repo-downloads]:  https://img.shields.io/github/downloads/scoopala7-source/aesthstrap/latest/total?style=flat-square&color=981bfe
 [badge-repo-latest]:     https://img.shields.io/github/v/release/scoopala7-source/aesthstrap?style=flat-square&color=7a39fb
-[badge-repo-stars]:      https://img.shields.io/github/star/scoopala7-source/aesthstrap?style=flat-square&color=dd9900
+[badge-repo-stars]:      https://img.shields.io/github/stars/scoopala7-source/aesthstrap?style=flat-square&color=dd9900
 
 
 
