@@ -53,17 +53,17 @@ Found any bugs? [Submit an issue](https://github.com/scoopala7-source/aesthstrap
 ### Considering a switch? [Download it here][repo-latest].
 
 
-[badge-repo-license]:    https://img.shields.io/github/license/returnrqt/fishstrap?style=flat-square
-[badge-repo-workflow]:   https://img.shields.io/github/actions/workflow/status/returnrqt/fishstrap/ci-release.yml?branch=main&style=flat-square&label=builds
-[badge-repo-downloads]:  https://img.shields.io/github/downloads/returnrqt/fishstrap/latest/total?style=flat-square&color=981bfe
-[badge-repo-latest]:     https://img.shields.io/github/v/release/returnrqt/fishstrap?style=flat-square&color=7a39fb
-[badge-repo-stars]:      https://img.shields.io/github/stars/returnrqt/fishstrap?style=flat-square&color=dd9900
+[badge-repo-license]:    https://img.shields.io/github/license/scoopala7-source/aesthstrap?style=flat-square
+[badge-repo-workflow]:   https://img.shields.io/github/actions/workflow/status/scoopala7-source/aesthstrap/ci-release.yml?branch=main&style=flat-square&label=builds
+[badge-repo-downloads]:  https://img.shields.io/github/downloads/scoopala7-source/aesthstrap/latest/total?style=flat-square&color=981bfe
+[badge-repo-latest]:     https://img.shields.io/github/v/release/scoopala7-source/aesthstrap?style=flat-square&color=7a39fb
+[badge-repo-stars]:      https://img.shields.io/github/star/scoopala7-source/aesthstrap?style=flat-square&color=dd9900
 
 
 
-[repo-license]:  https://github.com/returnrqt/fishstrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/returnrqt/fishstrap/actions
-[repo-releases]: https://github.com/returnrqt/fishstrap/releases
-[repo-latest]:   https://github.com/returnrqt/fishstrap/releases/latest
+[repo-license]:  https://github.com/scoopala7-source/aesthstrap/blob/main/LICENSE
+[repo-actions]:  https://github.com/scoopala7-source/aesthstrap/actions
+[repo-releases]: https://github.com/scoopala7-source/aesthstrap/releases
+[repo-latest]:   https://github.com/scoopala7-source/aesthstrap/releases/latest
 
 
